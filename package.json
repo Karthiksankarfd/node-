@@ -1,0 +1,15 @@
+{
+  "name": "nodemainfolder",
+  "version": "1.0.0",
+  "description": "// npm global command, comes with node\r // npm --version\r // local dependency use it only in this particular project\r // npm i <packageName>\r // global dependency use it in any project\r // npm install -g <packageName>\r // sudo npm install -g <packageName> (mac)\r // package.json - manifest file (stores important info about project/package)'\r // manual approach (create package.json in the root, create properties etc)\r // npm init (step by step, press enter to skip)\r // npm init -y (everything default)",
+  "main": "5-utils.js",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
